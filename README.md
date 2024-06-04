@@ -1,4 +1,4 @@
-ModelCraft - Ai 3D Model Maker
+# ModelCraft - Ai 3D Model Maker
 
 ModelCraft is an innovative tool designed to simplify the creation of 3D models using OpenSCAD. By utilizing advanced language models, ModelCraft transforms natural language prompts into precise OpenSCAD scripts. This automation enables users, from beginners to professionals, to quickly generate complex 3D models without deep knowledge of coding. The tool also integrates seamlessly with Cura, allowing users to preview and fine-tune their models before printing.
 
